@@ -11,7 +11,7 @@ $frutas = array("maçã", "banana", "laranja");
 // Remover e obter o último elemento da array
 $ultimoElemento = array_pop($frutas);
 //Obter o elemento removido
-echo $ultimoElemento; //Se usarmor esse código, será exibido o último elemento removido
+echo $ultimoElemento; //Se usarmor esse código, será exibido o último elemento removido, no caso, laranja será exibido
 // Exibir a array atualizada
 echo "Frutas restantes: ";
 print_r($frutas);
