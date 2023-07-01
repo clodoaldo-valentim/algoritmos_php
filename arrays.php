@@ -23,6 +23,7 @@ $matriz = array(
     array(7, 8, 9)
 );
 //Exemplo de como manipular uma array, óbvio que outras maneiras dessa manipulação ocorrer
+//As arrays também oferecem uma variedade de funções e métodos para manipular e percorrer os elementos, como count(), foreach, array_push(), array_pop(), entre outros.
 echo $idades[0]; // Saída: 20
 
 echo $pessoa['nome']; // Saída: João
