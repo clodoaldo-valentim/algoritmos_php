@@ -5,4 +5,4 @@
 <?php
 $frutas = array("maçã", "banana", "laranja");
 $numero_de_frutas = count($frutas);
-echo $numero_de_frutas;  // imprime 3x2 
+echo $numero_de_frutas;  // imprime 3
